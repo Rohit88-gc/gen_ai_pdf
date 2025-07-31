@@ -1,6 +1,6 @@
 import requests
 
-api_key = "AIzaSyA0bIfq5QT9vPQXRCmh3DEH-gh0lPpBKJE"  # Replace with your Gemini API key
+api_key = "ABcD-XYZ Make your own api key here"  # Replace with your Gemini API key
 url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
 
 def get_openai_response(prompt):
